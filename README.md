@@ -10,7 +10,10 @@ Você pode acessar todas as versões e arquivos na aba de **[Releases](../../rel
 
 | # | Título / Nome do Arquivo | Descrição | Tamanho | Download |
 |---|---|---|---|---|
-| 01 | [siwi-platform.mp4](https://github.com/EdsoftIt/siwi-assets/releases/tag/2026-10-01) | Vídeo da _Hero_ da página de Plataforma do site v2 | ~159 MB | [📥 Baixar](https://github.com/EdsoftIt/siwi-assets/releases/download/2026-10-01/siwi-platform.mp4) |
+| 01 | [siwi-platform.mp4](https://github.com/EdsoftIt/siwi-assets/releases/tag/2026-10-01) | Vídeo da _Hero_ da página de Plataforma do site v2 em 4K  | ~159 MB | [📥 Baixar](https://github.com/EdsoftIt/siwi-assets/releases/download/2026-10-01/siwi-platform.mp4) |
+| 02 | [siwi-platform-1080p.mp4](https://github.com/EdsoftIt/siwi-assets/releases/download/2026-10-16/siwi-platform-1080p.mp4) | Vídeo da _Hero_ da página de Plataforma do site v2 em 1080p | ~128 MB | [📥 Baixar](https://github.com/EdsoftIt/siwi-assets/releases/download/2026-10-16/siwi-platform-1080p.mp4) |
+| 03 | [siwi-platform-720p.mp4](https://github.com/EdsoftIt/siwi-assets/releases/download/2026-10-16/siwi-platform-720p.mp4) | Vídeo da _Hero_ da página de Plataforma do site v2 em 720p | ~58 MB | [📥 Baixar](https://github.com/EdsoftIt/siwi-assets/releases/download/2026-10-16/siwi-platform-720p.mp4) |
+| 04 | [siwi-platform-480p.mp4](https://github.com/EdsoftIt/siwi-assets/releases/download/2026-10-16/siwi-platform-480p.mp4) | Vídeo da _Hero_ da página de Plataforma do site v2 em 480p | ~27 MB | [📥 Baixar](https://github.com/EdsoftIt/siwi-assets/releases/download/2026-10-16/siwi-platform-480p.mp4) |
 
 ---
 
